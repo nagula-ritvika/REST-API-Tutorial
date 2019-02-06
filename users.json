@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Deck",
+    "age": 96,
+    "occupation": "Research Nurse"
+  },
+  {
+    "name": "Carolyne",
+    "age": 34,
+    "occupation": "Research Assistant IV"
+  },
+  {
+    "name": "Lotte",
+    "age": 19,
+    "occupation": "Systems Administrator II"
+  },
+  {
+    "name": "Margeaux",
+    "age": 81,
+    "occupation": "Biostatistician I"
+  },
+  {
+    "name": "Daisie",
+    "age": 66,
+    "occupation": "Staff Accountant IV"
+  }
+]
